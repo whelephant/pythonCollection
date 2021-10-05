@@ -67,5 +67,5 @@ async def on_message(message):
         later Imperial period who fell in love with members of the same sex.''')
 
 
-client.run('ODcyMzg3Mzc4MzIzNTQyMDQ2.YQpIDw._ZmOsVrGN98tSiMD3-fcekheYmA')
+client.run(TOKEN)
 
