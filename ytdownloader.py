@@ -14,6 +14,6 @@ print("processing.....")
 my_video = my_video.streams.get_highest_resolution()
 print("downloading.....")
 # set download location
-my_video.download('/Users/danielgao/Downloads')
+my_video.download('~/Downloads')
 print("~/Downloads")
 
